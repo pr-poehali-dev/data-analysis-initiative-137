@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">МУРРА*НИЯ</div>
+        <div className="logo" style={{ fontFamily: "'Nunito', sans-serif", fontWeight: 900 }}>МУРРАНІЯ</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">Коты</a>
